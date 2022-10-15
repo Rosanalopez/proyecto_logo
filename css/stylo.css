@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+.strong{
+    font-weight: bolder;
+}
+.color{
+    color: black;
+}
+.card{
+    max-width: 100%;
+    max-height: 100%;
+    
+    object-fit: contain;
+}
+.card-img-top{
+    width: 510px;
+    height: 300px;
+    
+}
